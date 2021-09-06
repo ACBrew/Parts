@@ -1,0 +1,427 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: white;
+    width: 100%;
+    height: 135px;
+    place-items: center;
+    border-bottom: 45px solid #256892;
+    line-height: 135px;
+    margin-bottom: 50px;
+    position: relative;
+    display: block;
+    float: left;
+    clear: both;
+}
+
+.search-block {
+    display: block;
+}
+
+.search {
+    display: block;
+    margin-top: 22px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 30%;
+}
+
+.search .input {
+    width: 100%;
+    float: left;
+    height: 47px;
+    border: 1px solid #b4c5c5;
+    border-radius: 3px;
+    min-width: 100%;
+    padding: 0 55px 0 20px;
+    box-sizing: border-box;
+    font-size: 16px;
+    background: #f5f5f5;
+    color: #555;
+    outline: none;
+}
+
+.search .input:focus {
+    background: #fff;
+    color: #333;
+}
+
+.search .input:hover {
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.07), 0 10px 10px rgba(0, 0, 0, 0.04);
+}
+
+.search .submit:hover {
+    opacity: 0.8;
+}
+
+input[type="search"] {
+    -webkit-appearance: none;
+}
+
+input[type="submit"] {
+    border: 0;
+    text-indent: -99999px;
+    width: 40px !important;
+    height: 49px !important;
+    margin-left: -55px;
+    background: transparent url(//s.exist.ru/img2/icons/header/search.svg) center center no-repeat;
+    float: left;
+}
+
+.wrapper {
+    position: relative;
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+body {
+    background: #eee;
+}
+
+.AllOffersTitle {
+    color: #256892;
+    font-family: Roboto, Arial, Tahoma, sans-serif;
+    font-size: 21px;
+    background: #d8e6eb;
+    font-weight: normal;
+}
+
+.menu {
+    text-align: center;
+    font-size: 14px;
+    position: fixed;
+    top: 190px;
+    z-index: 1;
+    float: left;
+    border-radius: 4px;
+}
+
+.sticker {
+    list-style-type: none;
+    background: #fff;
+    border: 1px solid #e4e4e2;
+    display: inline-block;
+    width: 220px;
+    height: 120px;
+    margin-right: 20px;
+    border-radius: 7px;
+    /*box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);*/
+    padding-top: 15px;
+}
+
+.sticker:hover, .save-auth:hover, .row-container:hover, .search .input:hover {
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.07), 0 10px 10px rgba(0, 0, 0, 0.04);
+}
+
+.sticker a {
+    text-decoration: none;
+    font-family: Arial, Tahoma, sans-serif;
+    font-size: 14px;
+    color: #333333;
+}
+
+.sticker a:hover {
+    color: orangered;
+    font-weight: bold;
+}
+
+main {
+    left: 20%;
+    font-family: Arial, Tahoma, sans-serif;
+    color: #303030;
+    display: block;
+    float: left;
+    position: relative;
+    font-size: 15px;
+    font-weight: bold;
+    width: 80%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Volodya {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.el_originality {
+    width: 90%;
+    clear: both;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    box-sizing: border-box;
+    align-items: flex-start;
+    align-content: center;
+    margin-top: 10px;
+    min-height: 60px;
+    /*border: 0;*/
+    /*background: rgba(51, 170, 51, 0);*/
+    /*font-weight: bold;*/
+    /*text-align: center;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    /*color: #555555;    */
+}
+
+.el_originality .btn-link {
+    width: 90%;
+    position: relative;
+    clear: both;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    box-sizing: border-box;
+    align-items: flex-start;
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    padding-right: 0;
+    justify-content: space-evenly;
+    min-height: 60px;
+    border: 0;
+    background: rgba(51, 170, 51, 0);
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    color: #555555;
+}
+
+#orig, #price-range {
+    width: 50%;
+    display: flex;
+    position: relative;
+    float: left;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+#price-body {
+    margin-top: 10px;
+    display: block;
+    width: calc(100% - 160px);
+    box-sizing: border-box;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #e4e4e2;
+}
+
+.row-container {
+    position: relative;
+    clear: both;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    align-items: flex-start;
+    min-height: 47px;
+    max-height: 999999px;
+    padding-right: 0;
+    justify-content: space-between;
+    margin-top: 10px;
+    border-top: 1px solid #e4e4e2;
+    background: #fff;
+}
+
+
+.row {
+    margin-left: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 3 0px;
+    align-content: center;
+    width: 75%;
+    position: relative;
+    float: left;
+    flex-direction: column;
+}
+
+.name-container {
+    position: relative;
+    display: block;
+    float: left;
+    padding-right: 0;
+}
+
+.brand-name {
+    font: 14px Arial, Tahoma, Helvetica, sans-serif;
+    display: block;
+    font-weight: bold;
+    color: #363636;
+    margin-right: 3px;
+    float: left;
+    width: 22%;
+    line-height: 38px;
+}
+
+.finis {
+    display: block;
+    color: #808080;
+    float: left;
+    margin-right: 3px;
+    font-size: 12px;
+    position: relative;
+    width: 15%;
+    line-height: 38px;
+
+}
+
+.descr {
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 14px;
+    text-align: left;
+    float: left;
+    width: 55%;
+    color: #363636;
+    line-height: 23px;
+    margin-top: 7px;
+}
+
+.allOffers {
+    float: left;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 25%;
+}
+
+.price-row {
+    flex-direction: row;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    min-height: 38px;
+}
+
+.date-price-row-first, .date-price-row {
+    flex-direction: row;
+    display: flex;
+    justify-content: flex-end;
+    width: 80%;
+    min-height: 38px;
+}
+
+.image-url {
+    display: flex;
+    width: 10%;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+}
+.image-url a{
+    text-decoration: none;
+    color: #256892;
+}
+.image-url a:hover {
+    color: darkred;
+}
+
+
+.modal_div {
+   width: 600px;
+   height: 600px; /* Рaзмеры дoлжны быть фиксирoвaны */
+   border-radius: 5px;
+   border: 3px #000 solid;
+   background: #fff;
+   position: fixed; /* чтoбы oкнo былo в видимoй зoне в любoм месте */
+   top: 45%; /* oтступaем сверху 45%, oстaльные 5% пoдвинет скрипт */
+   left: 50%; /* пoлoвинa экрaнa слевa */
+   margin-top: -150px;
+   margin-left: -150px; /* oтступaем влевo и вверх минус пoлoвину ширины и высoты сooтветственнo */
+   display: none; /* в oбычнoм сoстoянии oкнa не дoлжнo быть */
+   opacity: 0; /* пoлнoстью прoзрaчнo для aнимирoвaния */
+   z-index: 5; /* oкнo дoлжнo быть нaибoлее бoльшем слoе */
+   padding: 20px 10px;
+}
+
+.modal_div img{
+    max-width: 584px;
+    max-height: 584px;
+
+}
+/* Кнoпкa зaкрыть для тех ктo в тaнке) */
+.modal_close {
+   width: 21px;
+   height: 21px;
+   position: absolute;
+   top: 10px;
+   right: 10px;
+   cursor: pointer;
+   display: block;
+}
+/* Пoдлoжкa */
+#overlay {
+   z-index:3; /* пoдлoжкa дoлжнa быть выше слoев элементoв сaйтa, нo ниже слoя мoдaльнoгo oкнa */
+   position:fixed; /* всегдa перекрывaет весь сaйт */
+   background-color:#000; /* чернaя */
+   opacity:0.5; /* нo немнoгo прoзрaчнa */
+   -moz-opacity:0.8; /* фикс прозрачности для старых браузеров */
+   filter:alpha(opacity=80);
+   width:100%;
+   height:100%; /* рaзмерoм вo весь экрaн */
+   top:0; /* сверху и слевa 0, oбязaтельные свoйствa! */
+   left:0;
+   cursor:pointer;
+   display:none; /* в oбычнoм сoстoянии её нет) */
+}
+
+
+.statis {
+    display: flex;
+    font-weight: normal;
+    width: 30%;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.price {
+    display: flex;
+    width: 60%;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.date-price-row:hover {
+    color: steelblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+/*.row-container:hover {*/
+/*    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.07), 0 10px 10px rgba(0, 0, 0, 0.04);*/
+/*    cursor: pointer;*/
+/*}*/
+
+.form-control {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 450px;
+}
+
+.save-auth {
+    text-align: center;
+    font-size: 14px;
+    list-style-type: none;
+    background: #fff;
+    border: 1px solid #e4e4e2;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    border-radius: 7px;
+}
+

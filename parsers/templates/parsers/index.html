@@ -1,0 +1,23 @@
+{% extends 'main/layout.html' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+
+{% block result %}
+
+    <div id="price-body">
+        <p class="AllOffersTitle">{{ title }}</p>
+        {% for k,v in ss.items %}
+            <div class="row-container">
+                <form action="{% url 'originality' %}" method="post" class="el_originality">{% csrf_token %}
+                    <button type="submit" name="original" value="{{ k }}" class="btn-link">
+                        <div id="orig">{{ k | upper }}</div>
+                        <div id="price-range">{{ v.price__min|floatformat:2 }}{#&#8381#} ... {{ v.price__max|floatformat:2 }} &#8381</div>
+                    </button>
+                </form>
+            </div>
+        {% endfor %}
+    </div>
+
+
+{% endblock %}

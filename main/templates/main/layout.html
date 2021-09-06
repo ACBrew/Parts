@@ -1,0 +1,41 @@
+{% load static %}
+
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{% static 'main/css/main.css' %}">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet"
+          type="text/css"/>
+    <script defer src="{% static 'main/js/jquery-3.6.0.js' %}"></script>
+    <script defer src="{% static 'main/js/image_onclick.js' %}"></script>
+</head>
+<body>
+<header>
+    {% include 'main/search.html' %}
+</header>
+<div class="wrapper">
+    <div class="menu">
+        <ul>
+            <li class="sticker">
+                <a href="{% url 'home' %}">НА ГЛАВНУЮ</a><br>
+                <a href="#" onclick="history.back();">НАЗАД</a><br>
+                {#                <a href="#" onClick="scroll(0,0); return false" title="наверх">НАВЕРХ</a><br>#}
+                <a href="#up">ПОИСК</a><br>
+                <a href="{% url 'profile_cookies' %}">ПРОФИЛЬ</a><br>
+            </li>
+        </ul>
+    </div>
+    <main>
+        {% block result %}
+        {% endblock %}
+    </main>
+</div>
+</body>
+</html>

@@ -1,0 +1,1149 @@
+1629872513941	geckodriver	INFO	Listening on 127.0.0.1:63114
+1629872516884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileOCKcK1"
+*** You are running in headless mode.
+1629872518125	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileOCKcK1\\search.json.mozlz4", (void 0)))
+1629872523641	Marionette	INFO	Listening on port 63122
+1629872523879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629872532679	Marionette	INFO	Stopped listening on port 63122
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629872534074	geckodriver	INFO	Listening on 127.0.0.1:63211
+1629872537100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilea3NsKb"
+*** You are running in headless mode.
+1629872537647	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilea3NsKb\\search.json.mozlz4", (void 0)))
+1629872540041	Marionette	INFO	Listening on port 63219
+1629872540301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629872544359	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629872549130	Marionette	INFO	Stopped listening on port 63219
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629872687237	geckodriver	INFO	Listening on 127.0.0.1:53457
+1629872690252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileG6Hkzh"
+*** You are running in headless mode.
+1629872690603	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileG6Hkzh\\search.json.mozlz4", (void 0)))
+1629872693004	Marionette	INFO	Listening on port 53465
+1629872693467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629872702134	Marionette	INFO	Stopped listening on port 53465
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629872703474	geckodriver	INFO	Listening on 127.0.0.1:53556
+1629872706502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile9Um1AQ"
+*** You are running in headless mode.
+1629872706855	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile9Um1AQ\\search.json.mozlz4", (void 0)))
+1629872709338	Marionette	INFO	Listening on port 53564
+1629872709681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629872719496	Marionette	INFO	Stopped listening on port 53564
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9228, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629872827050	geckodriver	INFO	Listening on 127.0.0.1:53655
+1629872830107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileIOZft3"
+*** You are running in headless mode.
+1629872830499	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileIOZft3\\search.json.mozlz4", (void 0)))
+1629872832768	Marionette	INFO	Listening on port 53663
+1629872833275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629872903622	Marionette	INFO	Stopped listening on port 53663
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629872918300	geckodriver	INFO	Listening on 127.0.0.1:57059
+1629872921347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile9iw46A"
+*** You are running in headless mode.
+1629872921707	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile9iw46A\\search.json.mozlz4", (void 0)))
+1629872924242	Marionette	INFO	Listening on port 57067
+1629872924519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileXSGiQ4\\search.json.mozlz4", (void 0)))
+1629872984709	Marionette	INFO	Listening on port 57180
+1629872984976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+search.json.mozlz4", (void 0)))
+1629873002486	Marionette	INFO	Listening on port 57279
+1629873002705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629873007325	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629873011721	Marionette	INFO	Stopped listening on port 57279
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629873013200	geckodriver	INFO	Listening on 127.0.0.1:57358
+1629873016209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileX3lHji"
+*** You are running in headless mode.
+1629873016613	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileX3lHji\\search.json.mozlz4", (void 0)))
+1629873019229	Marionette	INFO	Listening on port 57366
+1629873019383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629873022081	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629873024161	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629873028754	Marionette	INFO	Stopped listening on port 57366
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629873056213	geckodriver	INFO	Listening on 127.0.0.1:57449
+1629873059250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilej106uC"
+*** You are running in headless mode.
+1629873059629	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilej106uC\\search.json.mozlz4", (void 0)))
+1629873062268	Marionette	INFO	Listening on port 57457
+1629873062439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629873066054	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629873067141	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629873071589	Marionette	INFO	Stopped listening on port 57457
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629873072905	geckodriver	INFO	Listening on 127.0.0.1:57536
+1629873075896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileZKSt7J"
+*** You are running in headless mode.
+1629873076283	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileZKSt7J\\search.json.mozlz4", (void 0)))
+1629873078782	Marionette	INFO	Listening on port 57544
+1629873079060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629873083610	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629873088284	Marionette	INFO	Stopped listening on port 57544
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629874863678	geckodriver	INFO	Listening on 127.0.0.1:56073
+1629874866714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileoTEmyV"
+*** You are running in headless mode.
+1629874867174	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileoTEmyV\\search.json.mozlz4", (void 0)))
+1629874869715	Marionette	INFO	Listening on port 56081
+1629874869991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629874874748	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629874879114	Marionette	INFO	Stopped listening on port 56081
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629874880630	geckodriver	INFO	Listening on 127.0.0.1:56162
+1629874883653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileIRHFYb"
+*** You are running in headless mode.
+1629874884050	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileIRHFYb\\search.json.mozlz4", (void 0)))
+1629874886547	Marionette	INFO	Listening on port 56170
+1629874886805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629874889756	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629874895711	Marionette	INFO	Stopped listening on port 56170
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629875060421	geckodriver	INFO	Listening on 127.0.0.1:53152
+1629875063440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileZ9PoQS"
+*** You are running in headless mode.
+1629875063832	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileZ9PoQS\\search.json.mozlz4", (void 0)))
+1629875066466	Marionette	INFO	Listening on port 53160
+1629875066643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629875069603	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629875076422	Marionette	INFO	Stopped listening on port 53160
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629875077728	geckodriver	INFO	Listening on 127.0.0.1:53245
+1629875080758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile16NXhm"
+*** You are running in headless mode.
+1629875081136	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile16NXhm\\search.json.mozlz4", (void 0)))
+1629875083542	Marionette	INFO	Listening on port 53253
+1629875083934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629875093438	Marionette	INFO	Stopped listening on port 53253
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629875116818	geckodriver	INFO	Listening on 127.0.0.1:54850
+1629875119863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileUi60DJ"
+*** You are running in headless mode.
+1629875120269	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileUi60DJ\\search.json.mozlz4", (void 0)))
+1629875122854	Marionette	INFO	Listening on port 54858
+1629875123031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629875126284	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629875132353	Marionette	INFO	Stopped listening on port 54858
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629875133563	geckodriver	INFO	Listening on 127.0.0.1:57771
+1629875136596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileDhO8nR"
+*** You are running in headless mode.
+1629875137067	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileDhO8nR\\search.json.mozlz4", (void 0)))
+1629875140131	Marionette	INFO	Listening on port 56115
+1629875140379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629875143101	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629875144908	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629875149505	Marionette	INFO	Stopped listening on port 56115
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629875172210	geckodriver	INFO	Listening on 127.0.0.1:58838
+1629875175248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilec4uUNN"
+*** You are running in headless mode.
+1629875175625	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilec4uUNN\\search.json.mozlz4", (void 0)))
+1629875178333	Marionette	INFO	Listening on port 58846
+1629875178631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629875183604	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629875187999	Marionette	INFO	Stopped listening on port 58846
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 5008, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629875189116	geckodriver	INFO	Listening on 127.0.0.1:58930
+1629875192150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileHoea7S"
+*** You are running in headless mode.
+1629875192543	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileHoea7S\\search.json.mozlz4", (void 0)))
+1629875194991	Marionette	INFO	Listening on port 58938
+1629875195322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629875198104	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629875204516	Marionette	INFO	Stopped listening on port 58938
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629875222113	geckodriver	INFO	Listening on 127.0.0.1:59018
+1629875225151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile8mRW0m"
+*** You are running in headless mode.
+1629875225559	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile8mRW0m\\search.json.mozlz4", (void 0)))
+1629875228844	Marionette	INFO	Listening on port 59027
+1629875229331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629875238164	Marionette	INFO	Stopped listening on port 59027
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+1629875240073	geckodriver	INFO	Listening on 127.0.0.1:59120
+1629875243108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile0AQAuV"
+*** You are running in headless mode.
+1629875243485	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile0AQAuV\\search.json.mozlz4", (void 0)))
+1629875246086	Marionette	INFO	Listening on port 59128
+1629875246290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629875250746	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629875255529	Marionette	INFO	Stopped listening on port 59128
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629876454839	geckodriver	INFO	Listening on 127.0.0.1:50095
+1629876457850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilesQPm2u"
+*** You are running in headless mode.
+1629876458257	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilesQPm2u\\search.json.mozlz4", (void 0)))
+1629876460761	Marionette	INFO	Listening on port 50104
+1629876461014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629876465896	Marionette	INFO	Stopped listening on port 50104
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 11616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629876467820	geckodriver	INFO	Listening on 127.0.0.1:50180
+1629876470813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileh8aolW"
+*** You are running in headless mode.
+1629876471190	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileh8aolW\\search.json.mozlz4", (void 0)))
+1629876473646	Marionette	INFO	Listening on port 50188
+1629876474001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629876483200	Marionette	INFO	Stopped listening on port 50188
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 2152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629876618374	geckodriver	INFO	Listening on 127.0.0.1:61344
+1629876621411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileyB3yYh"
+*** You are running in headless mode.
+1629876621788	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileyB3yYh\\search.json.mozlz4", (void 0)))
+1629876624262	Marionette	INFO	Listening on port 61352
+1629876624841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629876630725	Marionette	INFO	Stopped listening on port 61352
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 2600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629876633074	geckodriver	INFO	Listening on 127.0.0.1:61432
+1629876636102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileCidGk8"
+*** You are running in headless mode.
+1629876636533	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileCidGk8\\search.json.mozlz4", (void 0)))
+1629876639192	Marionette	INFO	Listening on port 61440
+1629876639486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629876648432	Marionette	INFO	Stopped listening on port 61440
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629877735880	geckodriver	INFO	Listening on 127.0.0.1:53551
+1629877738914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileczuNQ7"
+*** You are running in headless mode.
+1629877739330	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileczuNQ7\\search.json.mozlz4", (void 0)))
+1629877742996	Marionette	INFO	Listening on port 53559
+1629877743096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629877748284	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629877752948	Marionette	INFO	Stopped listening on port 53559
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 4956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629877755187	geckodriver	INFO	Listening on 127.0.0.1:53635
+1629877758194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileRy3rt9"
+*** You are running in headless mode.
+1629877758617	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileRy3rt9\\search.json.mozlz4", (void 0)))
+1629877761099	Marionette	INFO	Listening on port 53643
+1629877761440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629877766469	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629877770850	Marionette	INFO	Stopped listening on port 53643
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 11468, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629877819143	geckodriver	INFO	Listening on 127.0.0.1:53738
+1629877822163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileE1sC5p"
+*** You are running in headless mode.
+1629877822545	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileE1sC5p\\search.json.mozlz4", (void 0)))
+1629877825030	Marionette	INFO	Listening on port 53746
+1629877825333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629877830878	Marionette	INFO	Stopped listening on port 53746
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629877833056	geckodriver	INFO	Listening on 127.0.0.1:53832
+1629877836084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilehKcW6B"
+*** You are running in headless mode.
+1629877836493	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilehKcW6B\\search.json.mozlz4", (void 0)))
+1629877839113	Marionette	INFO	Listening on port 53840
+1629877839240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629877843836	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629877848433	Marionette	INFO	Stopped listening on port 53840
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629877987219	geckodriver	INFO	Listening on 127.0.0.1:53924
+1629877990265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile9GgQ9L"
+*** You are running in headless mode.
+1629877990734	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile9GgQ9L\\search.json.mozlz4", (void 0)))
+1629877993427	Marionette	INFO	Listening on port 53933
+1629877993918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629877998767	Marionette	INFO	Stopped listening on port 53933
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629878001453	geckodriver	INFO	Listening on 127.0.0.1:59852
+1629878004460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileRXCLZP"
+*** You are running in headless mode.
+1629878004844	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileRXCLZP\\search.json.mozlz4", (void 0)))
+1629878007465	Marionette	INFO	Listening on port 59860
+1629878007625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629878017208	Marionette	INFO	Stopped listening on port 59860
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629878085915	geckodriver	INFO	Listening on 127.0.0.1:59950
+1629878088921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilec7qiYr"
+*** You are running in headless mode.
+1629878089427	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilec7qiYr\\search.json.mozlz4", (void 0)))
+1629878092038	Marionette	INFO	Listening on port 59958
+1629878092154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629878097175	Marionette	INFO	Stopped listening on port 59958
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629878099145	geckodriver	INFO	Listening on 127.0.0.1:60035
+1629878102171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilevxHxQR"
+*** You are running in headless mode.
+1629878102543	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilevxHxQR\\search.json.mozlz4", (void 0)))
+1629878105012	Marionette	INFO	Listening on port 60043
+1629878105350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629878114234	Marionette	INFO	Stopped listening on port 60043
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629878555555	geckodriver	INFO	Listening on 127.0.0.1:54954
+1629878558590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilela0zyl"
+*** You are running in headless mode.
+1629878559001	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilela0zyl\\search.json.mozlz4", (void 0)))
+1629878561689	Marionette	INFO	Listening on port 54962
+1629878561985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629878567859	Marionette	INFO	Stopped listening on port 54962
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 6084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629878569973	geckodriver	INFO	Listening on 127.0.0.1:55050
+1629878573012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilev23Yts"
+*** You are running in headless mode.
+1629878573385	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilev23Yts\\search.json.mozlz4", (void 0)))
+1629878575860	Marionette	INFO	Listening on port 55058
+1629878576187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629878585296	Marionette	INFO	Stopped listening on port 55058
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 6568, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629879272824	geckodriver	INFO	Listening on 127.0.0.1:49737
+1629879275841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileqK74vL"
+*** You are running in headless mode.
+1629879276310	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileqK74vL\\search.json.mozlz4", (void 0)))
+1629879278803	Marionette	INFO	Listening on port 49745
+1629879279044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629879284964	Marionette	INFO	Stopped listening on port 49745
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+[Parent 8256, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629879287440	geckodriver	INFO	Listening on 127.0.0.1:49831
+1629879290466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile82YYZq"
+*** You are running in headless mode.
+1629879290940	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile82YYZq\\search.json.mozlz4", (void 0)))
+1629879293563	Marionette	INFO	Listening on port 64286
+1629879293694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629879302943	Marionette	INFO	Stopped listening on port 64286
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629888377700	geckodriver	INFO	Listening on 127.0.0.1:50913
+1629888380713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile31MbTv"
+*** You are running in headless mode.
+1629888381757	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile31MbTv\\search.json.mozlz4", (void 0)))
+1629888384786	Marionette	INFO	Listening on port 50921
+1629888385114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629888389017	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629888390993	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629888391368	Marionette	INFO	Stopped listening on port 50921
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629888393421	geckodriver	INFO	Listening on 127.0.0.1:50062
+1629888396449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilebQVolb"
+*** You are running in headless mode.
+1629888397046	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilebQVolb\\search.json.mozlz4", (void 0)))
+1629888399730	Marionette	INFO	Listening on port 50070
+1629888400133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629888402702	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629888404749	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629888409312	Marionette	INFO	Stopped listening on port 50070
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 2392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629891278788	geckodriver	INFO	Listening on 127.0.0.1:49582
+1629891281795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileflIRRt"
+*** You are running in headless mode.
+1629891282688	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileflIRRt\\search.json.mozlz4", (void 0)))
+1629891285560	Marionette	INFO	Listening on port 49590
+1629891285984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629891288611	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629891290909	Marionette	INFO	Stopped listening on port 49590
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629891293582	geckodriver	INFO	Listening on 127.0.0.1:49671
+1629891296618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileeMVO41"
+*** You are running in headless mode.
+1629891297033	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileeMVO41\\search.json.mozlz4", (void 0)))
+1629891299851	Marionette	INFO	Listening on port 49679
+1629891300314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1629891304521	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1629891309089	Marionette	INFO	Stopped listening on port 49679
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629966874278	geckodriver	INFO	Listening on 127.0.0.1:59536
+1629966877329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileBYrDGX"
+*** You are running in headless mode.
+1630397394738	geckodriver	INFO	Listening on 127.0.0.1:55093
+1630397397747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileDf4HPT"
+*** You are running in headless mode.
+1630397398305	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileDf4HPT\\search.json.mozlz4", (void 0)))
+1630397401495	Marionette	INFO	Listening on port 60703
+1630397401972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630397406827	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630397409181	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630397409621	Marionette	INFO	Stopped listening on port 60703
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630397412660	geckodriver	INFO	Listening on 127.0.0.1:62482
+1630397415698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofiled5mt2Z"
+*** You are running in headless mode.
+1630397416130	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofiled5mt2Z\\search.json.mozlz4", (void 0)))
+1630397418970	Marionette	INFO	Listening on port 61198
+1630397419446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630397429972	Marionette	INFO	Stopped listening on port 61198
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630397638390	geckodriver	INFO	Listening on 127.0.0.1:62449
+1630397641381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile3PUJA9"
+*** You are running in headless mode.
+1630397641806	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile3PUJA9\\search.json.mozlz4", (void 0)))
+1630397644571	Marionette	INFO	Listening on port 63857
+1630397645070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630397650906	Marionette	INFO	Stopped listening on port 63857
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630397653896	geckodriver	INFO	Listening on 127.0.0.1:65096
+1630397656884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileTvNKBl"
+*** You are running in headless mode.
+1630397657299	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileTvNKBl\\search.json.mozlz4", (void 0)))
+1630397659929	Marionette	INFO	Listening on port 55555
+1630397660101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630397663306	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630397670479	Marionette	INFO	Stopped listening on port 55555
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630397773259	geckodriver	INFO	Listening on 127.0.0.1:55341
+1630397776251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileKJYw5D"
+*** You are running in headless mode.
+1630397776644	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileKJYw5D\\search.json.mozlz4", (void 0)))
+1630397779407	Marionette	INFO	Listening on port 63538
+1630397779639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630397785843	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630397786314	Marionette	INFO	Stopped listening on port 63538
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630397789949	geckodriver	INFO	Listening on 127.0.0.1:56994
+1630397792934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileOx8AZ6"
+*** You are running in headless mode.
+1630397793352	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileOx8AZ6\\search.json.mozlz4", (void 0)))
+1630397795895	Marionette	INFO	Listening on port 49312
+1630397796182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630397806784	Marionette	INFO	Stopped listening on port 49312
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630397821897	geckodriver	INFO	Listening on 127.0.0.1:52544
+1630397824914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileTXjKM9"
+*** You are running in headless mode.
+1630397825423	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileTXjKM9\\search.json.mozlz4", (void 0)))
+1630397827936	Marionette	INFO	Listening on port 60869
+1630397828803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630397834844	Marionette	INFO	Stopped listening on port 60869
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630397837480	geckodriver	INFO	Listening on 127.0.0.1:57124
+1630397840510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilekAr06t"
+*** You are running in headless mode.
+1630397840882	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilekAr06t\\search.json.mozlz4", (void 0)))
+1630397843484	Marionette	INFO	Listening on port 56785
+1630397843759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630397854556	Marionette	INFO	Stopped listening on port 56785
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630397881219	geckodriver	INFO	Listening on 127.0.0.1:59897
+1630397884253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileVDGV9p"
+*** You are running in headless mode.
+1630397884619	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileVDGV9p\\search.json.mozlz4", (void 0)))
+1630397887090	Marionette	INFO	Listening on port 59597
+1630397887442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630397890480	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630397893621	Marionette	INFO	Stopped listening on port 59597
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630397895463	geckodriver	INFO	Listening on 127.0.0.1:51417
+1630397898517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilezNXPwP"
+*** You are running in headless mode.
+1630397898870	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilezNXPwP\\search.json.mozlz4", (void 0)))
+1630397901326	Marionette	INFO	Listening on port 51606
+1630397901690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630397906689	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630397911454	Marionette	INFO	Stopped listening on port 51606
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630398002812	geckodriver	INFO	Listening on 127.0.0.1:60627
+1630398005844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilerx9afO"
+*** You are running in headless mode.
+1630398006243	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilerx9afO\\search.json.mozlz4", (void 0)))
+1630398008861	Marionette	INFO	Listening on port 58739
+1630398009245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630398015841	Marionette	INFO	Stopped listening on port 58739
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630398018414	geckodriver	INFO	Listening on 127.0.0.1:60607
+1630398021439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileN0xlcJ"
+*** You are running in headless mode.
+1630398021816	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileN0xlcJ\\search.json.mozlz4", (void 0)))
+1630398024781	Marionette	INFO	Listening on port 55966
+1630398025125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630398035906	Marionette	INFO	Stopped listening on port 55966
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630423396474	geckodriver	INFO	Listening on 127.0.0.1:54698
+1630423399438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileSY4eGq"
+*** You are running in headless mode.
+1630423400616	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileSY4eGq\\search.json.mozlz4", (void 0)))
+1630423404907	Marionette	INFO	Listening on port 57512
+1630423405723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630423417067	Marionette	INFO	Stopped listening on port 57512
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 12084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630423419234	geckodriver	INFO	Listening on 127.0.0.1:60131
+1630423422269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileF2Zy1t"
+*** You are running in headless mode.
+1630423422947	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileF2Zy1t\\search.json.mozlz4", (void 0)))
+1630423426227	Marionette	INFO	Listening on port 60139
+1630423426629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630423437377	Marionette	INFO	Stopped listening on port 60139
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630423567145	geckodriver	INFO	Listening on 127.0.0.1:57025
+1630423570178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileUKWlmq"
+*** You are running in headless mode.
+1630423570598	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileUKWlmq\\search.json.mozlz4", (void 0)))
+1630423573374	Marionette	INFO	Listening on port 60316
+1630423573876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630423576929	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630423579532	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630423579836	Marionette	INFO	Stopped listening on port 60316
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630423583091	geckodriver	INFO	Listening on 127.0.0.1:59107
+1630423586076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileAMobEz"
+*** You are running in headless mode.
+1630423586448	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileAMobEz\\search.json.mozlz4", (void 0)))
+1630423588930	Marionette	INFO	Listening on port 59115
+1630423589270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630423594052	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630423598757	Marionette	INFO	Stopped listening on port 59115
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630424173728	geckodriver	INFO	Listening on 127.0.0.1:49338
+1630424176728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileeexbWy"
+*** You are running in headless mode.
+1630424177166	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileeexbWy\\search.json.mozlz4", (void 0)))
+1630424179629	Marionette	INFO	Listening on port 49346
+1630424179952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630424184349	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630424184842	Marionette	INFO	Stopped listening on port 49346
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 9652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630424187130	geckodriver	INFO	Listening on 127.0.0.1:52737
+1630424190163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilevwpP1u"
+*** You are running in headless mode.
+1630424190617	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilevwpP1u\\search.json.mozlz4", (void 0)))
+1630424193074	Marionette	INFO	Listening on port 59091
+1630424193376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630424202874	Marionette	INFO	Stopped listening on port 59091
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630424657429	geckodriver	INFO	Listening on 127.0.0.1:57457
+1630424660460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile11mksX"
+*** You are running in headless mode.
+1630424660851	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile11mksX\\search.json.mozlz4", (void 0)))
+1630424663233	Marionette	INFO	Listening on port 49577
+1630424663643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630424666810	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630424668615	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630424669093	Marionette	INFO	Stopped listening on port 49577
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630424671125	geckodriver	INFO	Listening on 127.0.0.1:59534
+1630424674141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileqYs3Gv"
+*** You are running in headless mode.
+1630424674511	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileqYs3Gv\\search.json.mozlz4", (void 0)))
+1630424676962	Marionette	INFO	Listening on port 59542
+1630424677509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630424686991	Marionette	INFO	Stopped listening on port 59542
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630478111347	geckodriver	INFO	Listening on 127.0.0.1:61646
+1630478114303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileoSNgTh"
+*** You are running in headless mode.
+1630478115848	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileoSNgTh\\search.json.mozlz4", (void 0)))
+1630478123249	Marionette	INFO	Listening on port 61654
+1630478123647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630478128584	Marionette	INFO	Stopped listening on port 61654
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630478130788	geckodriver	INFO	Listening on 127.0.0.1:56324
+1630478133807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileLlgs1Z"
+*** You are running in headless mode.
+1630478134320	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileLlgs1Z\\search.json.mozlz4", (void 0)))
+1630478136901	Marionette	INFO	Listening on port 56332
+1630478138299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630478143700	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630478148606	Marionette	INFO	Stopped listening on port 56332
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630478153314	geckodriver	INFO	Listening on 127.0.0.1:55117
+1630478156331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileYD7JPx"
+*** You are running in headless mode.
+1630478156752	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileYD7JPx\\search.json.mozlz4", (void 0)))
+1630478159894	Marionette	INFO	Listening on port 56468
+1630478160215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630478166315	Marionette	INFO	Stopped listening on port 56468
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630478169403	geckodriver	INFO	Listening on 127.0.0.1:61974
+1630478172420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileMRMQCG"
+*** You are running in headless mode.
+1630478172835	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileMRMQCG\\search.json.mozlz4", (void 0)))
+1630478175431	Marionette	INFO	Listening on port 61982
+1630478175825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630478185960	Marionette	INFO	Stopped listening on port 61982
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630478359860	geckodriver	INFO	Listening on 127.0.0.1:51557
+1630478362893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile3DzqOE"
+*** You are running in headless mode.
+1630478363269	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofile3DzqOE\\search.json.mozlz4", (void 0)))
+1630478366556	Marionette	INFO	Listening on port 51094
+1630478366600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1630583891250	geckodriver	INFO	Listening on 127.0.0.1:52641
+1630583894257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileWBzlhi"
+*** You are running in headless mode.
+1630583896110	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileWBzlhi\\search.json.mozlz4", (void 0)))
+1630583906119	Marionette	INFO	Listening on port 52649
+1630583906776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630583916410	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630583916787	Marionette	INFO	Stopped listening on port 52649
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1630583919235	geckodriver	INFO	Listening on 127.0.0.1:57352
+1630583922255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileEvqixl"
+*** You are running in headless mode.
+1630583922868	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileEvqixl\\search.json.mozlz4", (void 0)))
+1630583925444	Marionette	INFO	Listening on port 57360
+1630583925684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630583928176	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630583934884	Marionette	INFO	Stopped listening on port 57360
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630585223705	geckodriver	INFO	Listening on 127.0.0.1:65478
+1630585226718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileY09RQo"
+*** You are running in headless mode.
+1630585227607	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileY09RQo\\search.json.mozlz4", (void 0)))
+1630585230367	Marionette	INFO	Listening on port 65486
+1630585230617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630585236630	Marionette	INFO	Stopped listening on port 65486
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+[Parent 9396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1630585241635	geckodriver	INFO	Listening on 127.0.0.1:50486
+1630585244617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilee7xllZ"
+*** You are running in headless mode.
+1630585245107	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilee7xllZ\\search.json.mozlz4", (void 0)))
+1630585247834	Marionette	INFO	Listening on port 50494
+1630585248312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630585252766	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630585257464	Marionette	INFO	Stopped listening on port 50494
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630585645178	geckodriver	INFO	Listening on 127.0.0.1:61343
+1630585648214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileN941d3"
+*** You are running in headless mode.
+1630585648701	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileN941d3\\search.json.mozlz4", (void 0)))
+1630585651437	Marionette	INFO	Listening on port 52042
+1630585651902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630585654611	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630585657249	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630585657661	Marionette	INFO	Stopped listening on port 52042
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+[Parent 2996, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630585660109	geckodriver	INFO	Listening on 127.0.0.1:52409
+1630585663157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileQV8yQA"
+*** You are running in headless mode.
+1630585663521	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileQV8yQA\\search.json.mozlz4", (void 0)))
+1630585665950	Marionette	INFO	Listening on port 52417
+1630585666349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630585669301	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1630585675647	Marionette	INFO	Stopped listening on port 52417
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630585860080	geckodriver	INFO	Listening on 127.0.0.1:61010
+1630585863104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilePe142R"
+*** You are running in headless mode.
+1630585863523	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilePe142R\\search.json.mozlz4", (void 0)))
+1630585866249	Marionette	INFO	Listening on port 61018
+1630585866484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630585871913	Marionette	INFO	Stopped listening on port 61018
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630585874154	geckodriver	INFO	Listening on 127.0.0.1:61103
+1630585877181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileoKA5Td"
+*** You are running in headless mode.
+1630585877657	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileoKA5Td\\search.json.mozlz4", (void 0)))
+1630585880145	Marionette	INFO	Listening on port 61111
+1630585880386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630585889785	Marionette	INFO	Stopped listening on port 61111
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630585983515	geckodriver	INFO	Listening on 127.0.0.1:60653
+1630585986532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileluAvyB"
+*** You are running in headless mode.
+1630585986909	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofileluAvyB\\search.json.mozlz4", (void 0)))
+1630585989936	Marionette	INFO	Listening on port 60661
+1630585990218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630585995582	Marionette	INFO	Stopped listening on port 60661
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630585997956	geckodriver	INFO	Listening on 127.0.0.1:60747
+1630586000974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilekXzpkc"
+*** You are running in headless mode.
+1630586001339	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AC\\AppData\\Local\\Temp\\rust_mozprofilekXzpkc\\search.json.mozlz4", (void 0)))
+1630586003812	Marionette	INFO	Listening on port 60756
+1630586004187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1630586014305	Marionette	INFO	Stopped listening on port 60756
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

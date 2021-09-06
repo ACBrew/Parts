@@ -1,0 +1,27 @@
+{% extends 'main/layout.html' %}
+
+{% block title %}{{ title }}{% endblock %}
+{#TODO: прикрутить появляющиеся поля в зависимости от выбранного сайта см. https://www.cyberforum.ru/post9956456.html#}
+
+{% block result %}
+    <h3>Данные для авторизации</h3>
+    <form method="POST" class="post-form">
+
+        {% csrf_token %}
+
+{#         Вывод доступных для авторизации и дальнейшего парсинга сайтов #}
+
+        <select name="title" class="form-control">
+            <option disabled selected>Выберите сайт</option>
+            {% for key,value in sites.items %}
+            <option value="{{ key }}" >{{ value }}</option>
+            {% endfor %}
+            }
+        </select><br>
+        <input  type="text" placeholder="Ссылка для авторизации" class="form-control" id="link" name="link"><br>
+        <input type="text" placeholder="Логин" class="form-control" id="user_login" name="user_login"><br>
+        <input type="text" placeholder="Пароль" class="form-control" id="user_password" name="user_password"><br>
+        <button type="submit" class="save-auth">Save</button>
+
+    </form>
+{% endblock %}

@@ -1,0 +1,49 @@
+{% extends 'main/layout.html' %}
+{% load my_filters %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block result %}
+    <div id="price-body">
+        <p class="AllOffersTitle">{{ title }}</p>
+        {% if original %}
+            {% for i in sort_data %}
+                {% ifchanged i.2 %}
+                    <div class="row-container">
+                        {#                onclick="location.href='{% url 'selected_brand' %}?finis={{ i.2 }}';">#}
+                        <div class="row">
+                            <div class="name-container-first"  {# TODO: устранить налезание слоя на иконку изображения#}
+                                 onclick="location.href='{% url 'selected_brand' %}?finis={{ i.2 }}';"
+                                 title="Нажмите для отображения всех предложений для данного артикула">
+                                <div class="brand-name">{{ i.1 |safe }}</div>
+                                <div class="finis">{{ i.2 |safe }}</div>
+                                <div class="descr">{{ i.3 |safe }}</div>
+                            </div>
+                        </div>
+                        <div class="allOffers">
+                            {% for delivery_date,price,image_url in sort_data|price_block:i.2 %}
+                                <div class="price-row">
+                                    {% if image_url != "no url" %}
+                                        <div class="image-url">
+                                            <a href="#{{ forloop.parentloop.counter }}_{{ forloop.counter }}"
+                                               class="fas fa-camera-retro" style="font-size: 17px;"></a>
+                                        </div>
+                                        <div id="{{ forloop.parentloop.counter }}_{{ forloop.counter }}"
+                                             class="modal_div">
+                                            <span class="modal_close">X</span>
+                                            <img src="{{ image_url }}" alt="img">
+                                        </div>
+
+                                    {% endif %}
+                                        <span class="statis">{{ delivery_date }} дн.</span>
+                                        <span class="price">{{ price }} &#8381</span>
+                                </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                {% endifchanged %}
+            {% endfor %}
+        {% endif %}
+    </div>
+    <div id="overlay"></div>
+{% endblock %}

@@ -1,0 +1,15 @@
+{% extends 'main/layout.html' %}
+{% load static %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block result %}
+<div class="features">
+    <h1>{{ title }}</h1>
+    {% if message %}
+    <img src="{% static 'main/img/volodya.jpg' %}" alt="Володя" class="Volodya">
+    <p><h3>{{ message | safe }}</h3></p>
+    {% endif %}
+</div>
+{% endblock %}
+

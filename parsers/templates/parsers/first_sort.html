@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<header>
+    {% include 'main/search.html' %}
+</header>
+<main>
+    {% if original %}
+    <ul>
+        <li>{{ original }}</li>
+    </ul>
+    {% endif %}
+</main>
+</body>
+</html>

@@ -1,0 +1,35 @@
+{% extends 'main/layout.html' %}
+{% load my_filters %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block result %}
+    <div id="price-body">
+        <p class="AllOffersTitle">{{ title }}</p>
+        {% for i in sort_data %}
+
+            {% ifchanged i.2 %}
+                <div class="row-container" >
+                    <div class="row">
+                        <div class="name-container">
+                            <div class="brand-name">{{ i.brand_name }}</div>
+                            <div class="finis">{{ i.finis |safe }}</div>
+                            <div class="descr">{{ i.goods_name }}</div>
+                        </div>
+                    </div>
+                    <div class="allOffers">
+                        {% for d,p,u in sort_data|price_block_obj:i.finis %}
+                            <div class="price-row" onclick="window.open('{{ u }}');return false;">
+                            <div class="date-price-row">
+                                <span class="statis">{{ d }} дн.</span>
+                                <span class="price">{{ p }}&#8381</span>
+                            </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+
+            {% endifchanged %}
+        {% endfor %}
+    </div>
+{% endblock %}
